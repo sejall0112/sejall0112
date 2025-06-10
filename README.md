@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sejal</h1>
-<h3 align="center">Debug ninja | UI enthusiast | Coffee-backed</h3>
+<h3 align="center"> UI enthusiast | Debug ninja | Coffee-backed</h3>
 
 - 🔭 I’m currently working on **AWS Data Lake project**
 
